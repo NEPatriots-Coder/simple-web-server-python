@@ -14,7 +14,7 @@ A lightweight Flask-based web server that demonstrates various data formats (JSO
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/simple-web-server-python.git
+   git clone https://github.com/NEPatriots-Coder/simple-web-server-python.git
    cd simple-web-server-python
    ```
 
